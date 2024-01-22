@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name descrpition content="online shopping">
+    <title>ikert's shopping</title>
+    <style>
+aside {
+  width: 30%;
+  padding-left: 15px;
+  margin-left: 15px;
+  float: right;
+  font-style: italic;
+  background-color: lightgray;
+}
+</style>
+ <body>
+   <header>
+    <h1> welcome iekart's shopping</h1>
+    <nav>home  archive     about</nav>
+    <article> <h1>Electronics</h1></article>
+    <aside>
+       like and connect with us Fb and insta
+     </aside>
+    <section>
+         <ol><h4> list of the electronics devices</h4></ol>
+         <p1><ol><h7>air purifier</h7></p1></ol>
+         <p2><ol><h7>air conditioner</h7></p2></ol>
+    </section>
+     <article><h1> Clothing</h1></article>
+     <section><ol><h4>top 10 most popular luxary clothing brands</h4></ol></section>
+     <p1><ol><h7>zudio</h7></ol></p1>
+     <p2><ol><h7> peeks</h7></ol></p2>
+     <p3><ol><h7> alpha</h7></ol></p3>
+
+   
+   </header>
+ </body>
+ </head>
+ </html>
